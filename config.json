@@ -1,0 +1,8 @@
+{
+	"port": 23333,
+	"ssl": {
+		"enable": false,
+		"privateCrt": "",
+		"privateKey": ""
+	}
+}
